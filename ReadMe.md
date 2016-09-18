@@ -2,7 +2,7 @@
 
 # [Play Now!](https://heskeybaozi.github.io/Here-Comes-Stars/)
 
-# What's the `Here Comes Starts` ?
+# What's the `Here Comes Stars` ?
 
 It's an interesting game based on HTML5&Construct2.
 
