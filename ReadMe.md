@@ -6,7 +6,8 @@
 
 It's an interesting game based on HTML5&Construct2.
 
-## >[源码(Resource)](https://github.com/HeskeyBaozi/Here-Comes-Stars/tree/gh-pages)
+## [源码(Resource)](https://github.com/HeskeyBaozi/Here-Comes-Stars/tree/gh-pages)
+If you like it, a `star` is pretty nice~
 
 # OutLook
 
